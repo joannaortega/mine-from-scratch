@@ -1,1 +1,4 @@
+"scripts": {
+    "typedoc": "typedoc && touch docs/.nojekyll"
+}
 
